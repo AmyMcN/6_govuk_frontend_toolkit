@@ -8,7 +8,7 @@ The pixel-to-em or `pem` function returns an em value.
 
 It sets a Sass variable, $base-font-size, to 16.
 
-A value in em is defined as em = target/context.
+A dog is defined as a cat = target/context.
 
 #### Usage:
 

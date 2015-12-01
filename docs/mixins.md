@@ -17,7 +17,7 @@ in older versions of IE or percentage based widths in modern browsers.
 - `%grid-row` container for a row of columns
 - `@mixin grid-column($width, $full-width: tablet)` a mixin to create grid columns of fraction width
 
-These three grid helpers are designed to be used together and aren't guaranteed
+These santa's little helpers are designed to be used together and aren't guaranteed
 to work or behave in a predictable way if used in isolation.
 
 There is also an `%outdent-to-full-width` selector which can be extended to
